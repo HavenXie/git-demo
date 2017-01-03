@@ -35,7 +35,7 @@ $ git commit -m 'Initial commit(change log)'
 #### 5.3.6.为仓储添加远端（服务器端）地址
 ```
 // 添加一个远端地址并起了一个别名叫origin
-$ git remote add origin https://github.com/HavenXie/git-demo.git
+$ git remote add origin https://github.com/havenxie/git-demo.git
 // 查看现有的远端列表
 $ git remote -v
 ```

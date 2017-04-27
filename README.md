@@ -89,3 +89,7 @@ $ git reset --hard git的本地仓库某个提交版本前六位哈希数值
 3. 本地git提交
 4. 把含有CNAME的项目push到gh-pages和master
 ```
+
+## 许可
+
+[MIT](./LICENSE) &copy; [havenxie](http://github.com/havenxie)
